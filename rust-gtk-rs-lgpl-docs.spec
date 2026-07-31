@@ -5,8 +5,8 @@
 %global crate gtk-rs-lgpl-docs
 
 Name:           rust-%{crate}
-Version:        0.1.15
-Release:        2%{?dist}
+Version:        0.1.18
+Release:        1%{?dist}
 Summary:        LGPL-licensed docs for Gtk-rs crates
 
 # Upstream license specification: LGPL-2.0
